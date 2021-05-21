@@ -10,42 +10,48 @@
             "liked":false,
             "price":"35.25",
             "name":"Roberto Farias",
-            "category":"Saúde e bem estar"
+            "category": "Saúde e bem estar",
+            "id": 1
         },
         {
             "urlImg":"https://i1.wp.com/www.beetools.com.br/wp-content/uploads/2020/10/compras-nos-estados-unidos.png?fit=900%2C900&ssl=1",
             "liked":false,
             "price":"35.25",
             "name":"Roberto Farias",
-            "category":"Saúde e bem estar"
+            "category": "Saúde e bem estar",
+            "id": 2
         },
         {
             "urlImg":"https://i1.wp.com/www.beetools.com.br/wp-content/uploads/2020/10/compras-nos-estados-unidos.png?fit=900%2C900&ssl=1",
             "liked":false,
             "price":"35.25",
             "name":"Roberto Farias",
-            "category":"Saúde e bem estar"
+            "category": "Saúde e bem estar",
+            "id":
         },
         {
             "urlImg":"https://i1.wp.com/www.beetools.com.br/wp-content/uploads/2020/10/compras-nos-estados-unidos.png?fit=900%2C900&ssl=1",
             "liked":true,
             "price":"35.25",
             "name":"Roberto Farias",
-            "category":"Saúde e bem estar"
+            "category": "Saúde e bem estar",
+            "id": 3
         },
         {
             "urlImg":"https://i1.wp.com/www.beetools.com.br/wp-content/uploads/2020/10/compras-nos-estados-unidos.png?fit=900%2C900&ssl=1",
             "liked":false,
             "price":"35.25",
             "name":"Roberto Farias",
-            "category":"Saúde e bem estar"
+            "category": "Saúde e bem estar",
+            "id": 4
         },
         {
             "urlImg":"https://i1.wp.com/www.beetools.com.br/wp-content/uploads/2020/10/compras-nos-estados-unidos.png?fit=900%2C900&ssl=1",
             "liked":true,
             "price":"35.25",
             "name":"Roberto Farias",
-            "category":"Saúde e bem estar"
+            "category": "Saúde e bem estar",
+            "id": 5
         }
     ]
 
